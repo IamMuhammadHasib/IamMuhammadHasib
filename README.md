@@ -10,17 +10,10 @@ I specialize in backend development, crafting scalable APIs using Node and Expre
 ### 🛠️ Skills
 
 **Programming Languages:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Proficiency](https://progress-bar.dev/90/?width=250&color=green)  
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Proficiency](https://progress-bar.dev/75/?width=250&color=green)  
-
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![Proficiency](https://progress-bar.dev/60/?width=250&color=green)  
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Proficiency](https://progress-bar.dev/70/?width=250&color=green)  
+![JavaScript](https://img.shields.io/badge/JavaScript-90%25-brightgreen?style=for-the-badge&logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/Python-75%25-yellow?style=for-the-badge&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-80%25-blue?style=for-the-badge&logo=java&logoColor=white)  
+![C++](https://img.shields.io/badge/C%2B%2B-70%25-orange?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 **Backend Frameworks:**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
