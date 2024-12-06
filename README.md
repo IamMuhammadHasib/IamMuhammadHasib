@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there! 👋 I'm Mohammad Hasibul Hasan
 
-<!--
-**IamMuhammadHasib/IamMuhammadHasib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Bachelor of Science** in Computer Science and Engineering  
+💼 **Software Engineer (Backend)** at Wingsfin Securities Limited  
 
-Here are some ideas to get you started:
+I specialize in backend development, crafting scalable APIs, and ensuring high code quality. I'm also passionate about problem-solving and full-stack development.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+
+**Programming Languages:** JavaScript, Python, Java, C++  
+**Backend Frameworks:** Node.js, Express.js, Laravel  
+**Frontend Development:** React, Tailwind CSS, Bootstrap  
+**Databases:** MySQL, PostgreSQL, MongoDB  
+**Tools:** Docker, Git, Postman, VS Code, SonarCloud  
+
+---
+
+## 📈 My Coding Stats
+
+🌟 **500+ Problems Solved** on platforms like LeetCode, Codeforces, and CSES  
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/iammuhammahasib?theme=dark&font=Karma)](https://leetcode.com/iammuhammahasib/)
+
+---
+
+## 📄 My Resume
+
+Click [here](https://your-resume-link-here.com) to download my resume.
+
+---
+
+Feel free to connect with me on [LinkedIn](https://linkedin.com/in/your-profile) or check out my [GitHub Projects](https://github.com/your-username).
