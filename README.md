@@ -21,7 +21,7 @@ I specialize in backend development, crafting scalable APIs, and ensuring high c
 
 🌟 **500+ Problems Solved** on platforms like LeetCode, Codeforces, and CSES  
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/iammuhammahasib?theme=dark&font=Karma)](https://leetcode.com/iammuhammahasib/)
+[![LeetCode Stats](![LeetCode Stats](https://leetcard.jacoblin.cool/IamMuhammadHasib?theme=dark&font=Lato&ext=heatmap))
 
 ---
 
